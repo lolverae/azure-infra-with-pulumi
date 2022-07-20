@@ -1,0 +1,4 @@
+name: azure-infrastructure-with-pulumi
+runtime: dotnet
+description: This project contains the IaC required for a project running on AKS,
+  including the VNets and ACR
